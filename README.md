@@ -36,7 +36,7 @@ This endpoint retrieves a response based on the user's question.
 }
 
 
-```
+
 
 ## Add /update Anime Video
 ```http://localhost:3000/album?title=ANIME_TITLE&url=IMGUR_LINK```
