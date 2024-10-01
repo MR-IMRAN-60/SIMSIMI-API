@@ -16,18 +16,25 @@
 [![js file](https://img.shields.io/badge/videofile-red?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/random.js)
 
 ```Returns a random anime video in JSON format.
-Response:
-json
-Copy code
+
+## Endpoints
+
+### 1. GET `/sim`
+This endpoint retrieves a response based on the user's question.
+
+#### Request Parameters
+- **ask** (required): The question to be asked.
+
+#### Responses
+
+**Successful Response**
+```json
 {
-    "data": {
-        "title": "Anime Title",
-        "imgurLink": "https://imgur.com/example"
-    },
-    "count": 10,
-    "owner": "Mohammad IMRAN",
-    "contact": "www.facebook.com/100075122837809"
+  "reply": "Your response text with emoji",
+  "Author": "Mohammad Imran",
+  "contact": "www.facebook.com/100075122837809"
 }
+
 
 ```
 
