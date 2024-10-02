@@ -11,11 +11,7 @@
 
 ## Get 
 ``` http://localhost:3000/video/anime ```
-## massnger bot file 
 
-[![js file](https://img.shields.io/badge/videofile-red?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/random.js)
-
-```Returns a random anime video in JSON format.
 
 ## Endpoints
 
