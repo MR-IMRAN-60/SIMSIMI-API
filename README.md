@@ -50,7 +50,7 @@ Returns a JSON object confirming the teaching action and includes author/contact
 
 ## Example Request:
 
-***GET /teach?ask=What is your name?&ans=I am a chatbot.***
+**GET http://localhost:3000/teach?ask=What is your name?&ans=I am a chatbot.**
 
 
 
