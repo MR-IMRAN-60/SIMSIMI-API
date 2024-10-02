@@ -52,6 +52,16 @@ Returns a JSON object confirming the teaching action and includes author/contact
 
 ``` GET http://localhost:3000/teach?ask=What is your name?&ans=I am a chatbot. ```
 
+## Example Response:
+
+**Response**
+
+ {
+    "msg": "Teaching successful!",
+    "data": {...}, 
+    "Author": "Mohammad Imran",
+    "Contact": "www.facebook.com/100075122837809"
+} 
 
 
 ## Contact
