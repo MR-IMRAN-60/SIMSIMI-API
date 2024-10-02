@@ -30,7 +30,7 @@ This endpoint retrieves a response based on the user's question.
   "Author": "Mohammad Imran",
   "contact": "www.facebook.com/100075122837809"
 }
-
+```
 
 
 
