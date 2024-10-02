@@ -10,7 +10,7 @@
 
 
 ## Get 
-``` http://localhost:3000/video/anime ```
+``` http://localhost:3000/sim?ask=Hello ```
 
 
 ## Endpoints
