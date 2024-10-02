@@ -38,15 +38,21 @@ This endpoint retrieves a response based on the user's question.
 ## 2. Teach the Api
 Endpoint: /teach
 
-Method: GET
+## Method: GET
 
-Query Parameters:
+## Query Parameters:
 
 ask: The question to teach the chatbot (required).
 ans: The answer to the question (required).
-Response:
+## Response:
 
-```Returns a JSON object confirming the teaching action and includes author/contact info.```
+Returns a JSON object confirming the teaching action and includes author/contact info.
+
+## Example Request:
+
+***GET /teach?ask=What is your name?&ans=I am a chatbot.***
+
+
 
 ## Contact
 
