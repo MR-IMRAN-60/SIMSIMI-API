@@ -34,28 +34,19 @@ This endpoint retrieves a response based on the user's question.
 
 
 
-## Add /update Anime Video
-```http://localhost:3000/album?title=ANIME_TITLE&url=IMGUR_LINK```
 
-## massnger bot file 
+## 2. Teach the Api
+Endpoint: /teach
 
-[![js file](https://img.shields.io/badge/addfile-yellow?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/add.js)
+Method: GET
 
-[![js file](https://img.shields.io/badge/addfile-brown?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/addnpm.js)
+Query Parameters:
 
-```bash
-Adds a new anime video or updates an existing one.
-Query parameters:
-title: Title of the anime.
-url: Imgur link of the anime.
-```
-```Response:
-{ "msg": "Teaching sim successfully",
- "data": { "ask": "How are you",
- "ans": "I am a Imran" },
- "Author": "Mohammad Imran",
- "Contact": "www.facebook.com/100075122837809" }
-```
+ask: The question to teach the chatbot (required).
+ans: The answer to the question (required).
+Response:
+
+```Returns a JSON object confirming the teaching action and includes author/contact info.```
 
 ## Contact
 
