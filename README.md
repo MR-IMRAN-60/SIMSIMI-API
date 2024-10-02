@@ -55,14 +55,14 @@ Returns a JSON object confirming the teaching action and includes author/contact
 ## Example Response:
 
 **Response**
-
+```json
  {
     "msg": "Teaching successful!",
     "data": {...}, 
     "Author": "Mohammad Imran",
     "Contact": "www.facebook.com/100075122837809"
 } 
-
+```
 
 ## Contact
 
