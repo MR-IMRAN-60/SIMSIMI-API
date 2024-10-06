@@ -82,14 +82,14 @@ Returns a JSON object confirming the teaching action and includes author/contact
 
 <br>
 <div align="center">
-<a href='https://mr-imran-60.github.io/IMRAN-PASSWORD-GENERATOR/' target="_blank"><img alt='LIVE DEMO' src='https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
+<a href='https://simsimi.000.pe/' target="_blank"><img alt='LIVE DEMO' src='https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
 
 <br>
 
 
 <br>
 <br>
-I made this for a fun project, although I'm not sure why I made it. Its a password generator 
+I made this for a fun project, although I'm not sure why I made it. Its a simsimi chat bot
 
 
 
